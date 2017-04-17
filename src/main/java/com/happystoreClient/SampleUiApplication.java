@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SampleUiApplication {
-// dfjdfjjdffjdhjhfjdjf
+// dfjdfjjdffjdhjhfj
 	public static void main(String[] args) {
 		SpringApplication.run(SampleUiApplication.class, args);
 	}
